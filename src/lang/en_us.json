@@ -1,0 +1,41 @@
+{
+  "app.about": "About",
+  "app.help": "Help",
+  "app.login": "Login",
+  "app.register": "Register",
+  "app.logout": "Logout",
+  "app.change_password": "Change password",
+  "app.remember": "Remember me",
+  "app.my_account": "My Account",
+  "app.username": "UserName",
+  "app.password": "Password",
+  "app.new_password": "New password",
+  "app.password2": "Confirm password",
+  "app.login_form_empty": "Username or Password can't be empty!",
+  "app.password_confirm_wrong": "Password confirm wrong.",
+  "app.username_type_error": "Username must be 3-20 chars",
+  "app.password_type_error": "Password must be 8-20 chars",
+  "app.login_success": "Login success.",
+  "app.logout_success": "Logout success.",
+  "app.register_success": "Register success.",
+  "app.change_password_success": "Change password success.",
+  "app.login_invaild": "Login is invalid, please login again!",
+
+  "help.error": "NTD",
+
+  "change_local_data_warning": "Please don't change your local data.",
+
+  "Bad Request.": "Bad Request.",
+  "Require Login.": "Require Login.",
+  "Need bing qq.": "Need bing qq.",
+  "Need bing service.":"Need bing service.",
+  "User data error.": "User data error.",
+
+  "Login failed.": "Login failed.",
+  "User is inactive.": "User is inactive.",
+  "Password wrong.": "Password wrong.",
+  "Password confirm wrong.": "Password confirm wrong.",
+  "User exist.": "User exist.",
+  "Create new user error.": "Create new user error.",
+  "Already login.": "Already login."
+}
